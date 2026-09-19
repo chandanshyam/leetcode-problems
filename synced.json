@@ -237,5 +237,6 @@
   "top-k-frequent-elements": "1387585076",
   "group-anagrams": "1387462803",
   "count-the-number-of-consistent-strings": "1387437112",
-  "maximum-number-of-non-overlapping-substrings": "2145455706"
+  "maximum-number-of-non-overlapping-substrings": "2145455706",
+  "circle-and-rectangle-overlapping": "2146365035"
 }
