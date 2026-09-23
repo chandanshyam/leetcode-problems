@@ -239,5 +239,9 @@
   "count-the-number-of-consistent-strings": "1387437112",
   "maximum-number-of-non-overlapping-substrings": "2145455706",
   "circle-and-rectangle-overlapping": "2146365035",
-  "reverse-degree-of-a-string": "2147538789"
+  "reverse-degree-of-a-string": "2147538789",
+  "find-x-value-of-array-ii": "2150426134",
+  "minimum-operations-to-reduce-x-to-zero": "2150425177",
+  "valid-parenthesis-string": "2149202476",
+  "find-x-value-of-array-i": "2148999678"
 }
