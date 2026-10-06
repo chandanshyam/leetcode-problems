@@ -2,7 +2,7 @@
 1096. Brace Expansion II   [Hard]
 https://leetcode.com/problems/brace-expansion-ii/
 
-Runtime: 9 ms   Memory: 60.3 MB
+Runtime: 8 ms   Memory: 62.6 MB
 
 Under the grammar given below, strings can represent a set of lowercase words. Let `R(expr)` denote the set of words the expression represents.
 
