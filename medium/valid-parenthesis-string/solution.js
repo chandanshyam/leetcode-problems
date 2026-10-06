@@ -2,7 +2,7 @@
 678. Valid Parenthesis String   [Medium]
 https://leetcode.com/problems/valid-parenthesis-string/
 
-Runtime: 0 ms   Memory: 53.4 MB
+Runtime: 0 ms   Memory: 52.4 MB
 
 Given a string `s` containing only three types of characters: `'('`, `')'` and `'*'`, return `true` _if_ `s` _is **valid**_.
 
