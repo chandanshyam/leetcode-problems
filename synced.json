@@ -261,5 +261,6 @@
   "sudoku-solver": "2158618589",
   "maximum-nesting-depth-of-two-valid-parentheses-strings": "2157792711",
   "check-if-there-is-a-valid-parentheses-string-path": "2156647394",
-  "maximum-nesting-depth-of-the-parentheses": "2156455096"
+  "maximum-nesting-depth-of-the-parentheses": "2156455096",
+  "remove-invalid-parentheses": "2165008102"
 }
