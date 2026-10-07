@@ -2,7 +2,7 @@
 39. Combination Sum   [Medium]
 https://leetcode.com/problems/combination-sum/
 
-Runtime: 2 ms   Memory: 59.8 MB
+Runtime: 3 ms   Memory: 59.7 MB
 
 Given an array of **distinct** integers `candidates` and a target integer `target`, return _a list of all **unique combinations** of_ `candidates` _where the chosen numbers sum to_ `target`_._ You may return the combinations in **any order**.
 
