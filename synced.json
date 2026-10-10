@@ -263,5 +263,6 @@
   "check-if-there-is-a-valid-parentheses-string-path": "2156647394",
   "maximum-nesting-depth-of-the-parentheses": "2156455096",
   "remove-invalid-parentheses": "2165008102",
-  "remove-outermost-parentheses": "2166545602"
+  "remove-outermost-parentheses": "2166545602",
+  "minimum-insertions-to-balance-a-parentheses-string": "2167472453"
 }
