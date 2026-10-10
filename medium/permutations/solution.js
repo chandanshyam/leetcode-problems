@@ -2,7 +2,7 @@
 46. Permutations   [Medium]
 https://leetcode.com/problems/permutations/
 
-Runtime: 1 ms   Memory: 59.5 MB
+Runtime: 3 ms   Memory: 59.5 MB
 
 Given an array `nums` of distinct integers, return all the possible permutations. You can return the answer in **any order**.
 
