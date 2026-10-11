@@ -264,5 +264,7 @@
   "maximum-nesting-depth-of-the-parentheses": "2156455096",
   "remove-invalid-parentheses": "2165008102",
   "remove-outermost-parentheses": "2166545602",
-  "minimum-insertions-to-balance-a-parentheses-string": "2167472453"
+  "minimum-insertions-to-balance-a-parentheses-string": "2167472453",
+  "minimum-sum-of-squared-difference": "2168731351",
+  "sum-of-squares-of-special-elements": "2168730940"
 }
