@@ -256,7 +256,7 @@
   "valid-parentheses": "2158841979",
   "combinations": "2158639910",
   "permutations": "2158630921",
-  "combination-sum-ii": "2158626244",
+  "combination-sum-ii": "2158635930",
   "combination-sum": "2158593835",
   "sudoku-solver": "2158618589",
   "maximum-nesting-depth-of-two-valid-parentheses-strings": "2157792711",
@@ -266,5 +266,6 @@
   "remove-outermost-parentheses": "2166545602",
   "minimum-insertions-to-balance-a-parentheses-string": "2167472453",
   "minimum-sum-of-squared-difference": "2168731351",
-  "sum-of-squares-of-special-elements": "2168730940"
+  "sum-of-squares-of-special-elements": "2168730940",
+  "apply-operations-on-array-to-maximize-sum-of-squares": "2170350323"
 }
