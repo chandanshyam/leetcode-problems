@@ -2,7 +2,7 @@
 32. Longest Valid Parentheses   [Hard]
 https://leetcode.com/problems/longest-valid-parentheses/
 
-Runtime: 6 ms   Memory: 60.4 MB
+Runtime: 8 ms   Memory: 58.7 MB
 
 Given a string containing just the characters `'('` and `')'`, return _the length of the longest valid (well-formed) parentheses_ _substring_.
 
