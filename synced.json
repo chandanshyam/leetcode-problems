@@ -269,5 +269,7 @@
   "sum-of-squares-of-special-elements": "2168730940",
   "apply-operations-on-array-to-maximize-sum-of-squares": "2170350323",
   "maximum-alternating-sum-of-squares": "2171577544",
-  "push-dominoes": "2171577041"
+  "push-dominoes": "2171577041",
+  "subarrays-distinct-element-sum-of-squares-i": "2173199502",
+  "maximize-sum-of-squares-of-digits": "2173199057"
 }
