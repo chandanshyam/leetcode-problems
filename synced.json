@@ -167,7 +167,7 @@
   "dungeon-game": "1814600599",
   "wildcard-matching": "1814598964",
   "trapping-rain-water": "1814598570",
-  "longest-valid-parentheses": "2161740886",
+  "longest-valid-parentheses": "2168731452",
   "regular-expression-matching": "1814597175",
   "smallest-number-with-all-set-bits": "1814595936",
   "make-array-elements-equal-to-zero": "1813718040",
@@ -271,5 +271,8 @@
   "maximum-alternating-sum-of-squares": "2171577544",
   "push-dominoes": "2171577041",
   "subarrays-distinct-element-sum-of-squares-i": "2173199502",
-  "maximize-sum-of-squares-of-digits": "2173199057"
+  "maximize-sum-of-squares-of-digits": "2173199057",
+  "minimum-cost-to-reach-city-with-discounts": "2174856466",
+  "minimum-swaps-to-sort-by-digit-sum": "2174614578",
+  "subarrays-distinct-element-sum-of-squares-ii": "2174192309"
 }
