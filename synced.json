@@ -274,5 +274,7 @@
   "maximize-sum-of-squares-of-digits": "2173199057",
   "minimum-cost-to-reach-city-with-discounts": "2174856466",
   "minimum-swaps-to-sort-by-digit-sum": "2174614578",
-  "subarrays-distinct-element-sum-of-squares-ii": "2174192309"
+  "subarrays-distinct-element-sum-of-squares-ii": "2174192309",
+  "number-of-ways-to-reorder-array-to-get-same-bst": "2175865806",
+  "find-target-indices-after-sorting-array": "2175824792"
 }
