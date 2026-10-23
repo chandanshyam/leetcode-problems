@@ -279,5 +279,6 @@
   "find-target-indices-after-sorting-array": "2175824792",
   "sum-of-sortable-integers": "2177174422",
   "minimum-operations-to-sort-a-permutation": "2178450756",
-  "minimum-operations-to-sort-a-string": "2178229805"
+  "minimum-operations-to-sort-a-string": "2178229805",
+  "maximum-k-to-sort-a-permutation": "2179350778"
 }
