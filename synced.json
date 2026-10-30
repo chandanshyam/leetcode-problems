@@ -285,5 +285,6 @@
   "count-days-spent-together": "2181431134",
   "create-grid-with-exactly-one-path": "2182737752",
   "count-islands-with-total-value-divisible-by-k": "2182737456",
-  "minimum-xor-path-in-a-grid": "2184155047"
+  "minimum-xor-path-in-a-grid": "2184155047",
+  "palindromic-path-queries-in-a-tree": "2185087673"
 }
