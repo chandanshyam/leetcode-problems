@@ -2,7 +2,7 @@
 3723. Maximize Sum of Squares of Digits   [Medium]
 https://leetcode.com/problems/maximize-sum-of-squares-of-digits/
 
-Runtime: 1 ms   Memory: 62.2 MB
+Runtime: 1 ms   Memory: 62.6 MB
 
 You are given two **positive** integers `num` and `sum`.
 
