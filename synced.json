@@ -271,7 +271,7 @@
   "maximum-alternating-sum-of-squares": "2171577544",
   "push-dominoes": "2171577041",
   "subarrays-distinct-element-sum-of-squares-i": "2173199502",
-  "maximize-sum-of-squares-of-digits": "2173199057",
+  "maximize-sum-of-squares-of-digits": "2175866197",
   "minimum-cost-to-reach-city-with-discounts": "2174856466",
   "minimum-swaps-to-sort-by-digit-sum": "2174614578",
   "subarrays-distinct-element-sum-of-squares-ii": "2174192309",
@@ -288,5 +288,8 @@
   "minimum-xor-path-in-a-grid": "2184155047",
   "palindromic-path-queries-in-a-tree": "2185087673",
   "shortest-path-with-at-most-k-consecutive-identical-characters": "2185956395",
-  "twisted-mirror-path-count": "2185934213"
+  "twisted-mirror-path-count": "2185934213",
+  "minimum-moves-to-equal-array-elements-iii": "2188846233",
+  "minimum-moves-to-equal-array-elements-ii": "2188836874",
+  "minimum-moves-to-equal-array-elements": "2188836450"
 }
