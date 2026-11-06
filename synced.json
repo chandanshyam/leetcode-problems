@@ -292,5 +292,6 @@
   "minimum-moves-to-equal-array-elements-iii": "2188846233",
   "minimum-moves-to-equal-array-elements-ii": "2188836874",
   "minimum-moves-to-equal-array-elements": "2188836450",
-  "minimum-operations-to-make-elements-within-k-subarrays-equal": "2189608263"
+  "minimum-operations-to-make-elements-within-k-subarrays-equal": "2189608263",
+  "find-the-distance-value-between-two-arrays": "2190298607"
 }
