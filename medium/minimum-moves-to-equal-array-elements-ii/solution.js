@@ -2,7 +2,7 @@
 462. Minimum Moves to Equal Array Elements II   [Medium]
 https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/
 
-Runtime: 5 ms   Memory: 56.2 MB
+Runtime: 7 ms   Memory: 54.8 MB
 
 Given an integer array `nums` of size `n`, return _the minimum number of moves required to make all array elements equal_.
 
